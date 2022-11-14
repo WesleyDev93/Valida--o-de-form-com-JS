@@ -1,4 +1,4 @@
-# Valida--o-de-form-com-JS
+# Validação-de-formularios-com-JS
 
 ## Índice
 
